@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @shadow_blank
+# Subscribe YouTube Channel For Amazing Bot @shadow_blank
+# Ask Doubt on telegram @shadow_blank
 
 
 import re, os
@@ -15,9 +15,9 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "7153070490:AAG8ZXalF7LPiYWChEbJNLm16zLw
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "autorenamethumbnailbot") 
 
-             # Don't Remove Credit @VJ_Botz
-             # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-             # Ask Doubt on telegram @KingVJ01
+             # Don't Remove Credit @shadow_blank
+             # Subscribe YouTube Channel For Amazing Bot @shadow_blank
+             # Ask Doubt on telegram @shadow_blank
 
 DB_NAME = os.environ.get("DB_NAME", "renamebot")     
 
